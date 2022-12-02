@@ -1,3 +1,5 @@
+1. Realizar un script llamado '01-hola-mundo.sh' que muestre por pantalla "Hola mundo!".
+
 
 sudo nano 01-RUN.sh
 (escribimos en el archivo lo siguiente)
